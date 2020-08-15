@@ -1,0 +1,11 @@
+epoch: 0, average loss 0.0003201392400660552, dataset len: 102400, acc: 0.9305859375
+epoch: 1, average loss 9.98780466034077e-05, dataset len: 102400, acc: 0.99505859375
+epoch: 2, average loss 6.582727590284776e-05, dataset len: 102400, acc: 0.997177734375
+epoch: 3, average loss 5.1660901408467905e-05, dataset len: 102400, acc: 0.99791015625
+epoch: 4, average loss 4.330490584834479e-05, dataset len: 102400, acc: 0.9981640625
+epoch: 5, average loss 3.788494384934893e-05, dataset len: 102400, acc: 0.998369140625
+epoch: 6, average loss 3.3956131755985555e-05, dataset len: 102400, acc: 0.998330078125
+epoch: 7, average loss 3.092597515205853e-05, dataset len: 102400, acc: 0.998388671875
+epoch: 8, average loss 2.8561609015014254e-05, dataset len: 102400, acc: 0.99857421875
+epoch: 9, average loss 2.657527447809116e-05, dataset len: 102400, acc: 0.998251953125
+correct: 102170, total: 102400, accuracy: 0.99775390625
